@@ -1,15 +1,12 @@
-[UPDATE] 0.0.1
-[IN]        => 02:41 06/06/22
-[OUT]       => 03:32 06/06/22
-[SESSION]   => 01:09
-[TOTAL]     => 01:08 hrs
+[UPDATE] 0.0.2
+[IN]        => 05:25 06/06/22
+[OUT]       => 06:15 06/06/22
+[SESSION]   => 00:50
+[TOTAL]     => 03:07 hrs
 
 [COMPLETED]
-- web server set-up
-    - get Nodejs
-    - get npm
-    - set up server
-    - run server
+- Refining server stuffs
+- Research...
 
 [PENDING]
 
@@ -17,6 +14,11 @@
 - Hello Triangle
 
 [ARCHIVE]
+- web server set-up
+    - get Nodejs
+    - get npm
+    - set up server
+    - run server
 - boilerplate set-up
     - index.html
     - index.js
